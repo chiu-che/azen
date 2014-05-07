@@ -4,7 +4,7 @@
 
 system('ls');
 
-system('git pull github master');
+system('sh pull.sh');
 
 echo 'pull finsh';
 
